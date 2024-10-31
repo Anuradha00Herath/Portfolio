@@ -43,7 +43,7 @@ const SalonProjectHero: React.FC = () => {
 
           {/* Call-to-Action Button */}
           <a
-            href="#learn-more"
+            href="https://github.com/Anuradha00Herath/StyleSync.git"
             className="inline-block px-8 py-3 text-lg font-semibold text-white bg-pink-600 hover:bg-pink-700 rounded-full transition duration-300 ease-in-out transform hover:scale-105"
           >
             View on github
