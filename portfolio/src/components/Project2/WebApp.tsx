@@ -1,7 +1,8 @@
 // components/WebApp.tsx
 import Image from 'next/image';
 import React from 'react';
-import image1 from '../../../assets/images/Stylish-Creative-Corporate-Identity-Design-Template-1.webp';
+import image1 from '../../../assets/images/Scaleafy/iQtogpeMqb5.png';
+import image2 from '../../../assets/images/Scaleafy/o1fOaxeAF4K.png';
 
 const WebApp: React.FC = () => {
   return (
@@ -24,7 +25,7 @@ const WebApp: React.FC = () => {
           </div>
           <div className="flex justify-center transform hover:scale-105 transition duration-300">
             <Image
-              src={image1} // Replace with the actual image path
+              src={image2} // Replace with the actual image path
               alt="Web App Overview"
               className="w-full h-64 object-cover rounded-lg shadow-lg"
             />

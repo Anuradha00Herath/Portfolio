@@ -2,8 +2,8 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import image1 from '../../../assets/images/Scaleafy.jpg';
-import StyleSync from '../../../assets/images/StyleSync.jpg'
+import image1 from '../../../assets/images/Scaleafy/3fQGQIoRGk7.png';
+import StyleSync from '../../../assets/images/StyleSync/SLX180UHWLZ.png'
 
 const projects = [
   {

@@ -1,7 +1,8 @@
 // components/MobileApp.tsx
 import Image from 'next/image';
 import React from 'react';
-import image from '../../../assets/images/Top-Mobile-App-Development-Companies-in-Chennai-1.webp'
+import image from '../../../assets/images/StyleSync/tshDnRIQoN1.png';
+import image2 from '../../../assets/images/StyleSync/iPlExK9k0xw.png';
 
 const MobileApp: React.FC = () => {
   return (
@@ -34,7 +35,7 @@ const MobileApp: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-10">
           <div className="flex justify-center transform hover:scale-105 transition duration-300">
             <Image
-              src={image}// Replace with the actual image path
+              src={image2}// Replace with the actual image path
               alt="Appointment Management Interface"
               className="w-full h-64 object-cover rounded-lg shadow-lg"
             />

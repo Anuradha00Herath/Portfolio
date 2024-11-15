@@ -1,7 +1,7 @@
 // components/SalonProjectHero.tsx
 import React from 'react';
 import Image from 'next/image';
-import image1 from '../../../assets/images/Scaleafy.jpg';
+import image1 from '../../../assets/images/Scaleafy/SFFutFQh@cCI.png';
 import Navbar from './NavBar';
 
 const SalonProjectHero: React.FC = () => {

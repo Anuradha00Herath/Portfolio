@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import React from 'react';
 import image1 from '../../../assets/images/StyleSyncWeb.jpg';
-import image2 from '../../../assets/images/Frame1.jpg';
+import image2 from '../../../assets/images/StyleSync/WNeb8mxSNr.png';
 
 const WebApp: React.FC = () => {
   return (
